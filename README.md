@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sameer Ahmed
-- A first year Information Technology Student
+- A Third year Information Technology Student
 - 👀 I’m interested in competitive coding and web development
-- 🌱 I’m currently learning front end web development along side c and c++ language
+- 🌱 I’m currently learning front end web development along side data structure and algorithm in c++ language
 - 💞️ I’m looking to collaborate on front end web development.
 - 📫 Reach me on my instagram handle [sameer_6576](https://www.instagram.com/sameer_6576/) or email me on sameerahmed6576@gmail.com
 
