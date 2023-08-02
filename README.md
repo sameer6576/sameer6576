@@ -3,8 +3,7 @@
 - 👀 I’m interested in competitive coding and web development
 - 🌱 I’m currently learning front end web development along side data structure and algorithm in c++ language
 - 💞️ I’m looking to collaborate on front end web development.
-- 📫 Reach me on my instagram handle [sameer_6576](https://www.instagram.com/sameer_6576/) or email me on sameerahmed6576@gmail.com
-
+- 📫 Reach me on my instagram handle [sameer2508_](https://www.instagram.com/sameer25085_/) or email me on sameerahmed6576@gmail.com
 
 <!---
 sameer6576/sameer6576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
